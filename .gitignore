@@ -1,0 +1,8 @@
+#dependencies
+node_modules/
+.idea/
+spotifly_project/spotifly_project/__pycache__/
+spotifly_project/api/__pycache__/
+spotifly_project/api/migrations/__pycache__/
+spotifly_project/auth/__pycache__/
+spotifly_project/frontend/__pycache__/

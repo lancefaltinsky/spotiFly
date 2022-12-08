@@ -1,0 +1,3 @@
+CLIENT_ID = "IDHERE"
+CLIENT_SECRET = "SECRETHERE"
+REDIRECT_URL = "http://127.0.0.1:8000/auth/callback"
